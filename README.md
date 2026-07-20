@@ -1,5 +1,15 @@
 # Titanic Exploratory Data Analysis using Microsoft Azure Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Azure Machine Learning](https://img.shields.io/badge/Azure-Machine%20Learning-0078D4)
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+
 ![Average Fare by Passenger Class](images/fare_by_passenger_class.PNG)
 
 ## Project Overview
